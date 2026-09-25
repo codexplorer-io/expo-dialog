@@ -1,0 +1,10 @@
+{
+  "name": "@codexporer.io/expo-dialog",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "@codexporer.io/expo-app-theme": "*"
+  }
+}
